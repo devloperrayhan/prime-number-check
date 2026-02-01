@@ -1,1 +1,2 @@
-# Nothing have requirements, just download the "main.py" file then run this code. try : python main.py
+# Nothing have requirements, just download the "main.py" file then run this code. 
+Try : python main.py
